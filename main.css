@@ -14,11 +14,25 @@ div {
   border-top-color: #f00;
 }
 
+#orange { /* this selects any elements with the orange id */
+  border-top-color: #f00;
+}
+
+#green { /* this selects any elements with the green id */
+  border-top-color: #f00;
+}
+
+#blue { /* this selects any elements with the blue id */
+  border-top-color: #f00;
+}
+
+#indigo { /* this selects any elements with the indigo id */
+  border-top-color: #f00;
+}
+
 #violet { /* this selects any elements with the violet id */
   border-top-color: #f00;
 }
 
-#orange { /* this selects any elements with the orange id */
-  border-top-color: #f00;
-}
+
 
