@@ -18,6 +18,10 @@ div {
   border-top-color: #f00;
 }
 
+#yellow { /* this selects any elements with the yellow id */
+  border-top-color: #f00;
+}
+
 #green { /* this selects any elements with the green id */
   border-top-color: #f00;
 }
