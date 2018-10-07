@@ -18,3 +18,7 @@ div {
   border-top-color: #f00;
 }
 
+#orange { /* this selects any elements with the orange id */
+  border-top-color: #f00;
+}
+
